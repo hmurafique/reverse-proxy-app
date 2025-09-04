@@ -8,6 +8,7 @@ This project demonstrates a **Production-style Multi-Container Setup** using **D
 ---
 
 ## 📂 Project Structure
+```
 reverse-proxy-app/
 ├── backend/
 │ ├── app.py
@@ -20,7 +21,7 @@ reverse-proxy-app/
 │ ├── nginx.conf
 │ └── Dockerfile
 └── docker-compose.yml
-
+```
 ---
 
 ## 🔹 Services
